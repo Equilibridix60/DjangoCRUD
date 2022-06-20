@@ -1,0 +1,2 @@
+# DjangoCRUD
+A zuri project
